@@ -1,3 +1,5 @@
+![Board front render](https://github.com/anm/plant-led-driver/blob/main/led-driver.png?raw=true)
+
 This was designed for grow light but obviously can be rather more general
 purpose.
 
