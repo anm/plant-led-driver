@@ -14,6 +14,7 @@ just for the MAX485. You could use a MAX3485 or other 3.3V part.
 
 The electrolytic caps and inrush NTC are not needed.
 
-I only tested it up to 700mA (nominal) per channel.
+I designed and tested it up to 700mA (nominal) per channel. The drivers can do
+2A but you may need to check the other components are suitable for this.
 
 Drivers are PAM2863, controller STM32G030F6P6.
